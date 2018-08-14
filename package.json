@@ -1,0 +1,25 @@
+{
+  "name": "js-cleancode-refactoring-variable-extraction",
+  "version": "1.0.0",
+  "description": "Simple JavaScript Refactoring (Variable Extraction) example used at [CodeGym](https://codegym.vn)",
+  "main": "/src/fizzbuzz.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codegym-vn/js-cleancode-refactoring-variable-extraction.git"
+  },
+  "author": "codegym",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codegym-vn/js-cleancode-refactoring-variable-extraction/issues"
+  },
+  "homepage": "https://github.com/codegym-vn/js-cleancode-refactoring-variable-extraction#readme",
+  "devDependencies": {
+    "chai": "^4.1.2"
+  }
+}
